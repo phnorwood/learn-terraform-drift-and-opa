@@ -1,5 +1,5 @@
-policy "friday_deploys" {
-  query = "data.terraform.policies.friday_deploys.deny"
+policy "sunday_deploys" {
+  query = "data.terraform.policies.sunday_deploys.deny"
   enforcement_level = "mandatory"
 }
 
